@@ -5,6 +5,7 @@ class Blocks {
   float c;
   color getColor;
   
+  //Blocks(x座標, y座標)
   Blocks (float xpos, float ypos) {
     x = xpos;
     y = ypos;
